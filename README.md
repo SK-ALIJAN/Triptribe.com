@@ -1,3 +1,7 @@
+## Triptribe.com
+<br>
+TripTribe.com is a travel and tour booking website where you can browse and book your dream vacation. From exotic destinations to thrilling adventures, our website offers a wide range of travel options.  <br>
+![Screenshot (247)](https://github.com/SK-ALIJAN/Triptribe.com/assets/106768235/36828ded-f6d5-40c2-9edf-87c2a317fbb7)
 
 
 ****************************************************************************************
@@ -24,6 +28,10 @@
 
 ****************************************************************************************
 
+# preview 
+
+
+****************************************************************************************
 Deployed link:-
 # (https://trip-tribe.netlify.app/)
 
