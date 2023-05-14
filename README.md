@@ -32,6 +32,8 @@ TripTribe.com is a travel and tour booking website where you can browse and book
 
 <p align="center"><img src="https://github.com/SK-ALIJAN/Triptribe.com/assets/106768235/a31a8028-e1da-4181-882d-3bf86835628c"></p> <br>
 
+<p align="center"><img src="https://github.com/SK-ALIJAN/Triptribe.com/assets/106768235/68074bfd-dc07-4ee3-bea2-3492ffedaf7a"></p> <br>
+
 <p align="center"><img src="https://github.com/SK-ALIJAN/Triptribe.com/assets/106768235/00664966-aa37-41fd-862c-e8607b5ae4ee"></p> <br>
 
 <p align="center"><img src="https://github.com/SK-ALIJAN/Triptribe.com/assets/106768235/092997a6-6edb-4c4f-a57d-56d23e23b414"></p> <br>
