@@ -1,6 +1,6 @@
 ## Triptribe.com
 <br>
-TripTribe.com is a travel and tour booking website where you can browse and book your dream vacation. From exotic destinations to thrilling adventures, our website offers a wide range of travel options.  <br>
+TripTribe.com is a travel and tour booking website where you can browse and book your dream vacation. From exotic destinations to thrilling adventures, our website offers a wide range of travel options.  <br><br>
 <p align="center"><img src="https://github.com/SK-ALIJAN/Triptribe.com/assets/106768235/36828ded-f6d5-40c2-9edf-87c2a317fbb7"></p> 
 
 
@@ -27,8 +27,16 @@ TripTribe.com is a travel and tour booking website where you can browse and book
 + Responsive slideshow
 
 ****************************************************************************************
-<p align="center"><img src=""></p> 
-# preview 
+## Preview <br>
+<p align="center"><img src="https://github.com/SK-ALIJAN/Triptribe.com/assets/106768235/e0f60f64-cdeb-4b2c-8741-77bff9641ce1"></p> <br>
+
+<p align="center"><img src="https://github.com/SK-ALIJAN/Triptribe.com/assets/106768235/a31a8028-e1da-4181-882d-3bf86835628c"></p> <br>
+
+<p align="center"><img src="https://github.com/SK-ALIJAN/Triptribe.com/assets/106768235/00664966-aa37-41fd-862c-e8607b5ae4ee"></p> <br>
+
+<p align="center"><img src="https://github.com/SK-ALIJAN/Triptribe.com/assets/106768235/092997a6-6edb-4c4f-a57d-56d23e23b414"></p> <br>
+
+<p align="center"><img src="https://github.com/SK-ALIJAN/Triptribe.com/assets/106768235/73f89af2-a80d-45db-aeba-38a906e38c0e"></p> <br>
 
 
 ****************************************************************************************
