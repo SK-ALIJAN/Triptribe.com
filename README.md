@@ -1,12 +1,4 @@
 
-Deployed link:-
-# rotten-writing-6104 (https://trip-tribe.netlify.app/)
-
-It is collaborative project, We are team of three members.We have worked for 5 days.The names are as follows:-
-
-1. Shivam Verma(fw25_222)
-2. Aditya Choudhary(fw24_753)
-3. Sk Alijan(fp09_025)
 
 ****************************************************************************************
 
@@ -30,3 +22,13 @@ It is collaborative project, We are team of three members.We have worked for 5 d
 + Payment functionality
 + Responsive slideshow
 
+****************************************************************************************
+
+Deployed link:-
+# (https://trip-tribe.netlify.app/)
+
+It is collaborative project, We are team of three members.We have worked for 5 days.The names are as follows:-
+
+1. Shivam Verma(fw25_222)
+2. Aditya Choudhary(fw24_753)
+3. Sk Alijan(fp09_025)
